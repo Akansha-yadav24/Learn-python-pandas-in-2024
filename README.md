@@ -4,7 +4,7 @@ Welcome to the "Learn Python Pandas in 2024" tutorial! In this comprehensive gui
 
 ## Video Tutorial
 
-For a detailed video tutorial accompanying this guide, please check out [this link](insert_link_here). In the video, you'll find step-by-step explanations, practical examples, and demonstrations to help you grasp the concepts of Pandas effectively.
+For a detailed video tutorial accompanying this guide, please check out [Hindi content link]((https://youtu.be/mNGnGyIP9nw?si=biZbaVtGozi6iOHn)) , [English content link](https://youtu.be/lrEk0RcpPzc?si=K00cA4mZ5xSSfCcm). In the video, you'll find step-by-step explanations, practical examples, and demonstrations to help you grasp the concepts of Pandas effectively.
 
 ## What is Pandas?
 
